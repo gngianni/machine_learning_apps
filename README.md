@@ -1,6 +1,6 @@
 # Conda environment with environment.yml
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gngianni/machine_learning_apps/HEAD)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gngianni/machine_learning_apps/python_machine_learning)
 
 A Binder-compatible repo with an `environment.yml` file.
 
@@ -9,23 +9,7 @@ Access this Binder by clicking the blue badge above or at the following URL:
 https://mybinder.org/v2/gh/gngianni/machine_learning_apps/HEAD
 
 ## Notes
-The `environment.yml` file should list all Python libraries on which your notebooks
-depend, specified as though they were created using the following `conda` commands:
+This binder contains an environment.yml file with the proper packages for doing machine learning in python. 
 
-```
-conda activate example-environment
-conda env export --from-history -f environment.yml
-```
-
-Note that the only libraries available to you will be the ones specified in
-the `environment.yml`, so be sure to include everything that you need! 
-
-Also note that if you skip the `--from-history`, conda may include OS-specific
-packages in `environment.yml`, which you would have to manually prune from
-`environment.yml`.  For example, confirmed macOS-specific packages that should
-be removed are:
-
-* libcxxabi=4.0.1
-* appnope=0.1.0
-* libgfortran=3.0.1
-* libcxx=4.0.1
+The machine learning app contained in this repository was built using "Your First Machine Learning Project in Python Step-By-Step" by Jason Brownlee.
+https://machinelearningmastery.com/machine-learning-in-python-step-by-step/Links to an external site. 
