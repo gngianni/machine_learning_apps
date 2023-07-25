@@ -6,7 +6,7 @@ A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-https://mybinder.org/v2/gh/gngianni/machine_learning_apps/HEAD
+https://mybinder.org/v2/gh/gngianni/machine_learning_apps/python_machine_learning
 
 ## Notes
 This binder contains an environment.yml file with the proper packages for doing machine learning in python. 
