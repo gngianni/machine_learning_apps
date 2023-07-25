@@ -12,4 +12,4 @@ https://mybinder.org/v2/gh/gngianni/machine_learning_apps/HEAD
 This binder contains an environment.yml file with the proper packages for doing machine learning in python. 
 
 The machine learning app contained in this repository was built using "Your First Machine Learning Project in Python Step-By-Step" by Jason Brownlee.
-https://machinelearningmastery.com/machine-learning-in-python-step-by-step/Links to an external site. 
+https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
