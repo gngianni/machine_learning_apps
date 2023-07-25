@@ -14,5 +14,5 @@ dependencies:
   - pip
   - pip:
     - plotly 
-    - scikit-learn
+  
    
